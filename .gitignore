@@ -1,0 +1,42 @@
+# Dependencies
+node_modules/
+
+# Next.js
+.next/
+out/
+build/
+
+# Environment
+.env
+.env.local
+.env*.local
+!.env.local.example
+
+# Foundry
+cache/
+out/
+broadcast/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/settings.json
+.idea/
+
+# Misc
+*.tmp
+*.swp
+coverage/
+
+# Anvil state
+.anvil_state.json
+
+# Test artifacts
+pruebas.md
+Linked.md

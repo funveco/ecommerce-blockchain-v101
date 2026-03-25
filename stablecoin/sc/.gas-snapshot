@@ -1,0 +1,8 @@
+EuroTokenTest:testFuzz_Mint(uint256) (runs: 256, μ: 63039, ~: 63039)
+EuroTokenTest:test_Decimals() (gas: 5885)
+EuroTokenTest:test_Deploy() (gas: 28578)
+EuroTokenTest:test_MintByNonOwnerFails() (gas: 14401)
+EuroTokenTest:test_MintByOwner() (gas: 60522)
+EuroTokenTest:test_MintToZeroAddressFails() (gas: 12105)
+EuroTokenTest:test_MintZeroAmountFails() (gas: 14276)
+EuroTokenTest:test_Transfer() (gas: 93404)
