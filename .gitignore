@@ -40,3 +40,8 @@ coverage/
 # Test artifacts
 pruebas.md
 Linked.md
+
+# Git submodules (libraries - already in .gitmodules)
+lib/
+sc-ecommerce/lib/
+stablecoin/sc/lib/
